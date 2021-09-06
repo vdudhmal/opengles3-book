@@ -26,3 +26,5 @@ xcuserdata
 *.moved-aside
 
 
+.vs/*
+Android_Java/.vs/*
